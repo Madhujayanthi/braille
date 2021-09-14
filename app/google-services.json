@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694839508885",
+    "project_id": "braille-4e272",
+    "storage_bucket": "braille-4e272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694839508885:android:49b1201a09a2697dca009c",
+        "android_client_info": {
+          "package_name": "com.example.braille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694839508885-umq2codgubl82p7vm3hjnl4tjoklqfqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BwcAVFcYVvVbjx3Ij06Xu4pjwJgnJbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694839508885-umq2codgubl82p7vm3hjnl4tjoklqfqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
